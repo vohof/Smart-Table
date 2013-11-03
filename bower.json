@@ -1,0 +1,28 @@
+{
+  "name": "Smart-Table",
+  "version": "0.1.0",
+  "homepage": "https://github.com/vohof/Smart-Table",
+  "authors": [
+    "Laurent Renard"
+  ],
+  "description": "a table/grid for AngularJS",
+  "main": "Smart-Table.min.js",
+  "keywords": [
+    "smart-table",
+    "angularjs",
+    "table",
+    "ng-table",
+    "ng-grid"
+  ],
+  "ignore": [
+    "config",
+    "example-app",
+    "GruntFile.js",
+    "logs",
+    "scripts",
+    "smart-table-module",
+    "test"
+  ],
+  "license": "MIT",
+  "private": true
+}
